@@ -1,1 +1,6 @@
 E:\Study\Nam 4\TotNghiep\workspace\Test\Test\Test\bin\Debug\Test.exe.config
+E:\Study\Nam 4\TotNghiep\workspace\Test\Test\Test\bin\Debug\Test.exe
+E:\Study\Nam 4\TotNghiep\workspace\Test\Test\Test\bin\Debug\Test.pdb
+E:\Study\Nam 4\TotNghiep\workspace\Test\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Study\Nam 4\TotNghiep\workspace\Test\Test\Test\obj\Debug\Test.exe
+E:\Study\Nam 4\TotNghiep\workspace\Test\Test\Test\obj\Debug\Test.pdb
